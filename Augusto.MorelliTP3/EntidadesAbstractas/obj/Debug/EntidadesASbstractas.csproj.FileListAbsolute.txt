@@ -1,0 +1,14 @@
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\Excepciones.dll
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\Excepciones.pdb
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\EntidadesASbstractas.csprojResolveAssemblyReference.cache
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\GUTI\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\EntidadesASbstractas.csprojResolveAssemblyReference.cache
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -1,0 +1,58 @@
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Archivos.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Archivos.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Archivos.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

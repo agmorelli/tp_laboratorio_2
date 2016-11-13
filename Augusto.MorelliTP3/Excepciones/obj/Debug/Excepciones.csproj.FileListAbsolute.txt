@@ -1,0 +1,28 @@
+C:\GUTI\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.dll
+C:\GUTI\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.pdb
+C:\GUTI\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\GUTI\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.dll
+C:\GUTI\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\amorelli\Documents\programacion II\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Agussia\Desktop\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\amorelli\Desktop\TP3\Augusto.MorelliTP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\Excepciones\bin\Debug\Excepciones.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\amorelli\TP3\Augusto.MorelliTP3\Excepciones\obj\Debug\Excepciones.dll
+D:\amorelli\TP3\Augusto.MorelliTP3\Excepciones\obj\Debug\Excepciones.pdb
